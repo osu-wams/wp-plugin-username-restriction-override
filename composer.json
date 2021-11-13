@@ -1,0 +1,11 @@
+{
+  "name": "osu-wams/wp-plugin-username-restriction-override",
+  "description": "Override restrictions on WordPress network usernames.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.5",
+    "wp-coding-standards/wpcs": "^2.2",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2"
+  }
+}
