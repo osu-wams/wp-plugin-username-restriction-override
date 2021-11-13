@@ -3,7 +3,7 @@ Contributors: joraff
 Tags: admin, authentication, network, wpmu, multisite
 Requires at least: 3.4
 Tested up to: 4.4.2
-Stable tag: 1.3
+Stable tag: 1.3.1
 
 Override restrictions on WordPress network usernames.
 
@@ -41,8 +41,10 @@ You'll have to update the regular expressions in your `.htaccess` file if you us
 1. Plugin options
 
 == Changelog ==
+= 1.3.1 =
+* Adding Composer information
 
-= 1.3 = 
+= 1.3 =
 * Fixes compatibility with PHP7.0
 * Fixes compatibility with WordPress 4.4+
 

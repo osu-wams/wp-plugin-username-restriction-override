@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Network Username Restrictions Override
-Version: 1.3
+Version: 1.3.1
 Plugin URI: http://github.tamu/joraff/wp-plugin-network-username-restriction-override
 Description: Fork of the original Network Username Restriction Override plugin by Daniel Westermann-Clark
 Author: Joseph Rafferty
